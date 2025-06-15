@@ -7,7 +7,7 @@ Tracking my daily progress in Data Science.
 ## 📅 Day-wise Log
 ### ✅ Day 1: Intro to Python
 - 📘 Learned basic syntax, variables, data types
-### ✅ Rules for Writing Variables in Python
+###  Rules for Writing Variables in Python
 - Variable names must start with a letter (a-z, A-Z) or an underscore _
 
 - The rest of the name can include letters, digits (0–9), or underscores
