@@ -6,7 +6,18 @@ Tracking my daily progress in Data Science.
 
 ## 📅 Day-wise Log
 ### ✅ Day 1: Intro to Python
-- 📘 Learned basic syntax, variables, data types
+### About **Python**
+- Python is a powerful, high-level, general-purpose programming language. It's known for its *simplicity*, *readability*, and *versatility*
+
+### 🔹 `Why Python?`
+- Easy to learn & read: Clean syntax similar to English.
+
+- Huge community support
+
+- Rich libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, etc.
+
+- Versatile: Used in web development, data science, AI/ML, automation, scripting, etc.
+### 📘 Learned basic syntax, variables, data types
 ###  Rules for Writing Variables in Python
 - Variable names must start with a letter (a-z, A-Z) or an underscore _
 
