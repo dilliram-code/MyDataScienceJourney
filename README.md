@@ -17,6 +17,13 @@ Tracking my daily progress in Data Science.
 - Rich libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, etc.
 
 - Versatile: Used in web development, data science, AI/ML, automation, scripting, etc.
+### 🔹 What are Keywords?
+- Keywords are reserved words in Python. They have special meanings and cannot be used as variable names, function names, or identifiers.
+```python
+import keyword
+print(keyword.kwlist)
+
+```
 ### 📘 Learned basic syntax, variables, data types
 ###  Rules for Writing Variables in Python
 - Variable names must start with a letter (a-z, A-Z) or an underscore _
