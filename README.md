@@ -49,8 +49,47 @@ Tracking my daily progress in Data Science.
 - tuple – Ordered, immutable (e.g., point = (2, 5))
 
 - set – Unordered, unique items (e.g., ids = {1, 2, 3})
-
 - dict – Key-value pairs (e.g., person = {"name": "Bob"})
+### 🔹What are Python Literals?
+- Literals are data given in a variable or constant. In Python, they represent fixed values assigned to variables.
+### 🔹Python Type Conversion (Type Casting)
+#### 1️⃣Implicit Type Conversion (Automatic)
+```python
+a = 5       # int
+b = 2.0     # float
+c = a + b   # int + float → float
+
+print(c)          # 7.0
+print(type(c))    # <class 'float'>
+```
+#### 2️⃣Explicit Type Conversion (Manual / Type Casting)
+```python
+# int to float
+a = 10
+b = float(a)
+print(b)            # 10.0
+
+# float to int
+x = 3.9
+y = int(x)
+print(y)            # 3 (decimal removed)
+
+# int to string
+num = 123
+s = str(num)
+print(s, type(s))   # '123' <class 'str'>
+
+# string to int
+s = "456"
+i = int(s)
+print(i)            # 456
+
+# list to tuple
+lst = [1, 2, 3]
+tpl = tuple(lst)
+print(tpl)          # (1, 2, 3)
+ 
+```
  🔗 [View Code](Day1/code.ipynb)
   
   ![Day 1 Screenshot](Day1/variable.png)
